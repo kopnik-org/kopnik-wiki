@@ -43,7 +43,7 @@ json-файл имеет структуру как показано ниже.
 {
     "languageName": Russian, - Ошибка! пропали кавычки вокруг Russian
     "application": {
-        "youHaveToRegister": "Hi user_name! Press button "UPDATE"." - Ошибка! пропали двойные скобки `{{ }}` вокруг user_name, пропало экранирование обратным слешем кавычек `\"` вокруг UPDATE
+        "youHaveToRegister": "Hi user_name! Press button "UPDATE"." - Ошибка! пропали двойные скобки `{{ }}` вокруг user_name, Ошибка! пропало экранирование обратным слешем кавычек `\"` вокруг UPDATE
     }
 }
 ```
