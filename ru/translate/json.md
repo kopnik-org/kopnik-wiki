@@ -24,7 +24,7 @@ json-файл имеет структуру как показано ниже. К
 {
     "languageName": "Russian",
     "application": {
-        "youHaveToRegister": "Press button \"UPDATE\\\"."
+        "youHaveToRegister": "Press button \"UPDATE\"."
     }
 }
 ```
