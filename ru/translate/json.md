@@ -35,7 +35,7 @@ json-файл имеет структуру как показано ниже. К
 {
     "languageName": Russian, - Ошибка! пропали кавычки вокруг Russian
     "application": {
-        "youHaveToRegister": "Press button "UPDATE"." - Ошибка! пропало экранирование обратным слешем перед кавычками
+        "youHaveToRegister": "Press button "UPDATE"." - Ошибка! пропало экранирование обратным слешем перед кавычками в правой части
     }
 }
 ```
