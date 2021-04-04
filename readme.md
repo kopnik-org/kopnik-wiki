@@ -1,1 +1,1 @@
-# [Русский](ru/readme.md) [Словацкий](sk/readme.md) [Польский](pl/readme.md) [Немецкий](de/readme.md)  [Анегийский](en/readme.md) 
+# [Русский](ru/readme.md) / [Slovenský](sk/readme.md) / [Polski](pl/readme.md) / [German](de/readme.md) / [English](en/readme.md) 
