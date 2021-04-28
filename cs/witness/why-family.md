@@ -10,11 +10,11 @@ Kopní muži se v občine vybírají podle známého výběru a to podle osobní
 
 Pokud bychom připustili, že by se informace o rodinném stavu nepožadovaly a nebyly ověřeny, tak namísto skutečných kopných mužů by Kopnik.org zaplavili samozvanci: ke každému pravému kopnému muži by přibyly desítky samozvanců a povýšenou namyšleností o svých řídících schopnostech.
 
-Все эти самозванцы заслоняют истинных копных мужей, осложняя им взаимный поиск и взаимодействие, потому как количество самозванчев намного больше, а на карте Копника всегда отображается только 10 копников. Если ты представил, то согласишься, что в таком состоянии Копник перестал бы быть эффективным инструментом копного объединения.
+Všichni tito samozvanci zakryjí pravé kopné muže, což jim komplikuje vzájemné hledání a vzájemnou spolupráci, protože počet samozvanců bude mnohem větší a na mapě v Kopnik.org je vždy zobrazených pouze 10 kopníků. Pokud si to představíš, tak jistě souhlasíš s tím, že by Kopnik.org v takovém stavu přestal být účinným nástrojem hromadného sjednocení.
 
 # Jak funguje ochrana před samozvanci?
 
-Каждый участник, заявившийся на роль копного муже и копного мужа (смягченные требования по Сергею Данилову) предоставляет доказательства наличия супруги, ребенка, работы и хозяйства. При отсутствии одного из этих критериев или отказе предоставить доказательства, регистрация отклоняется или предлагается выбрать роль с меньшими полномочиями. Только копники в сети обладают полномочиями копных мужей Копного Права.
+Každý uživatel, který se přihlásil na roli kopného muže, a kopného muže se zmenšenými nároky podle Sergeje Danilova, poskytne důkaz přítomnosti manželky, dítěte, práce a hospodářství. Při absenci jednoho z těchto kritérií nebo odmítnutí poskytnutí důkazů je registrace zamítnuta nebo je navrhnuto vybrání úkolu s menšími oprávněními. Pouze kopníci v síti Kopnik.org vlastní oprávnění kopných mužů Kopného práva.
 
 # Jaké cíle kopník.org nesleduje?
 
