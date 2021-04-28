@@ -6,10 +6,10 @@ Ověřovací postup je technický postup, který nesouvisí přímo s kopným pr
 
 Postup ověřování splňuje dvě nejdůležitější úlohy:
 
-1. [Создание реальных общин на земле по территориальному принципу](why-placement.md)
+1. [Vytváření skutečných občin na zemi na základě území](why-placement.md)
 2. [Tvoří překážku v postupu podvodníků na kopné muže](why-family.md)
 
-Не решив эти задачи, Копник никогда не станет эффективным инструментом копного объединения и не справится с возложенной на него задачей всемирного славянского объединения.
+Bez vyřešení těchto úkolů se Kopnik.org nikdy nestane účinným nástrojem celkového sjednocení a nevypořádá se s úkolem celosvětového sjednocení Slovanů.
 
 # Jak probíhá ověřování?
 
