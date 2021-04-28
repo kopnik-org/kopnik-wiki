@@ -8,12 +8,12 @@ Informácie o polohe sú potrebné pre členov komunity pre vzájomné vyhľadá
 
 # Ako funguje vyhľadávanie podľa územia
 
-Každý účastník pri registrácii uvedie miesto trvalého pobytu. Sieť ukladá polohu všetkých členov a zobrazuje ich na mape. Každý účastník teda vidí členov komunity žijúcich v susedstve, ako aj komunity nachádzajúce sa v blízkosti. Spoločenstvá, ktoré sa vytvorili na miestnej úrovni od jednotlivých účastníkov, vidia ďalšie komunity nachádzajúce sa v blízkosti, a tak dostávajú príležitosť nadviazať interakciu a zjednotenie prostredníctvom starších. Takto sa vytvára jednoduchý a univerzálny spôsob budovania osamelých komunít -&gt; domov -&gt; dvor -&gt; mesto -&gt; región atď.
+Každý užívateľ uvedie počas registrácie miesto trvalého pobytu. Sieť ukladá polohu všetkých užívateľov a zobrazuje ich na mape. Preto každý užívateľ vidí občiníkov žijúcich v susedstve, ako aj občiny nachádzajúce sa v blízkom okolí. Občiny, ktoré sa vytvorili na miestnej úrovni z užívateľov - jednotlivcov, vidia iné občiny nachádzajúce sa v blízkosti, a takto dostávajú možnosť nadviazať vzájomnú spoluprácu a zjednotenie prostredníctvom staršinov. Toto vytvára jednoduchú a všestrannú cestu budovania kopných občín na územnom základe jednotlivec -&gt; dom -&gt; dvor -&gt; mesto -&gt; okres atď.
 
-# Aké ciele Copnik nesleduje
+# Aké ciele Kopnik.org nesleduje?
 
-- Prenos údajov o mieste pobytu tretím osobám
+- Odovzdávanie údajov o mieste pobytu tretím stranám
 
-# Čo ak nesúhlasím
+# Čo robiť, ak nesúhlasím?
 
-Ak sa vám tento postup nezdá spravodlivý, opíšte podrobne a navrhnite inú metódu. Svoju ponuku môžete nechať na [ulici kopnik.org](https://vk.me/join/gPg9/g6wjgknBe034BdDdOdcjvU1MtJKZ7o=) .
+Ak sa ti tento proces nezdá spravodlivým, opíš podrobne a navrhni iný spôsob. Svoj návrh môžeš nechať na [Улице kopnik.org](https://vk.me/join/gPg9/g6wjgknBe034BdDdOdcjvU1MtJKZ7o=)
