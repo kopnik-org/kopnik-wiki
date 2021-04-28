@@ -1,29 +1,28 @@
-# Aký je postup certifikácie
+# Čo je to priebeh overovania?
 
-Certifikačný postup je technický postup, ktorý priamo nesúvisí s autorským právom, počas ktorého sa overuje pravosť osobných údajov používateľa.
+Overovací postup je technický postup, ktorý nesúvisí priamo s Kopným právom. Počas tohto postupu sa overuje pravosť osobných údajov užívateľa.
 
-# Prečo je to dôležité
+# Prečo je to dôležité?
 
-Postup zabezpečovania vykonáva tri dôležité úlohy:
+Postup overovania spĺňa dve najdôležitejšie úlohy:
 
-1. [Predchádzanie vzniku falošných spoločenstiev a falošných starších](why-passport.md)
-2. [Vytváranie skutočných (nie virtuálnych) spoločenstiev na Zemi na územnom základe](why-placement.md)
-3. [Prekážka prechodu gaunerov do mopárov](why-family.md)
+1. [Vytváranie skutočných občín na Zemi na základe územia](https://gitlocalize.com/repo/5982/sk/ru/witness/why-placement.md)
+2. [Tvorí prekážku v postupe podvodníkov na kopných mužov](https://gitlocalize.com/repo/5982/sk/ru/witness/why-family.md)
 
-Bez riešenia týchto problémov sa Kopnik nikdy nestane efektívnym nástrojom šokového zjednotenia a nezvládne úlohu, ktorá mu bola pridelená.
+Bez vyriešenia týchto úloh sa Kopnik.org nikdy nestane účinným nástrojom celkového zjednotenia a nevysporiada sa s úlohou celosvetového zjednotenia Slovanov.
 
-# Ako funguje poistenie?
+# Ako prebieha overovanie?
 
-1. Svedok sa najskôr oboznámi s osobnými údajmi nového používateľa.
-2. Potom svedok požiada používateľa, aby preukázal: 2.1. Pas potvrdzujúci meno, vek, posledné 4 číslice a miesto pobytu. 2.2. Ak sa užívateľ uchádzal o rolu manžela s kapucňou, potom musí byť potvrdená aj rodina.
-3. Používateľ poskytne svedkovi požadované dôkazy.
-4. Po získaní dôkazu urobí svedok záver o pravosti osobných údajov používateľa.
-5. Na záver, na základe záveru, vás svedok prijme do Copniku alebo nie. \ N \
+1. Na začiatku sa overovateľ oboznámi s tvojími osobnými údajmi, ktoré si uviedol počas registrácie.
+2. Potom si overovateľ vyžiada potvrdenie o: 2.1 Mieste tvojho bydliska. 2.2 Prítomnosti rodiny, ak si požiadal o úlohu kopného muža.
+3. Ty poskytneš požadované dôkazy overovateľovi.
+4. Po získaní dôkazov urobí overovateľ záver o pravosti údajov, ktoré si uviedol počas registrácie.
+5. Nakoniec, na základe tohto záveru ťa overovateľ príjme do Kopnik.org, alebo nie.
 
-# Aké ciele Copnik nesleduje
+# Aké ciele Kopnik.org nesleduje?
 
-- Prenos osobných údajov tretím stranám
+- Odovzdávanie osobných údajov tretím stranám
 
-# Čo ak nesúhlasím
+# Čo robiť, ak nesúhlasím?
 
-Ak sa vám tento postup nezdá spravodlivý, opíšte podrobne a navrhnite inú metódu. Svoju ponuku môžete nechať na [ulici kopnik.org](https://vk.me/join/gPg9/g6wjgknBe034BdDdOdcjvU1MtJKZ7o=) .
+Ak sa ti tento proces nezdá spravodlivým, opíš podrobne a navrhni iný spôsob. Svoj návrh môžeš nechať na [Улице kopnik.org](https://vk.me/join/gPg9/g6wjgknBe034BdDdOdcjvU1MtJKZ7o=)
