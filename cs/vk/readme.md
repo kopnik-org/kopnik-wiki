@@ -3,7 +3,7 @@
 Kopnik.org používá mesenžr VKontaktě (VK) na autorizaci a koordinaci občiníků v následujících situacích:
 
 - oznámení kopníkům o svolání kopy
-- сообщение копнику о желании другого копника выбрать его старшиной и сообщение с обратной связью
+- oznámení kopníkovi o přání jiného kopníka vybrat si ho za staršinu a oznámení se zpětnou vazbou
 - oznámení novému uživateli a ověřovateli o nezbytnosti ověření osobních údajů nového uživatele
 - Kopník také vytváří speciální tematické místnosti (čety) pro každou kopu a každou desítku, které mohou občiníci v případě potřeby používat pro spojení na dálku prostřednictvím textu, hlasu a videa.
 
