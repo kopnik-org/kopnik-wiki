@@ -6,8 +6,8 @@ Overovací postup je technický postup, ktorý nesúvisí priamo s Kopným práv
 
 Postup overovania spĺňa dve najdôležitejšie úlohy:
 
-1. [Vytváranie skutočných občín na Zemi na základe územia](https://gitlocalize.com/repo/5982/sk/ru/witness/why-placement.md)
-2. [Tvorí prekážku v postupe podvodníkov na kopných mužov](https://gitlocalize.com/repo/5982/sk/ru/witness/why-family.md)
+1. [Vytváranie skutočných občín na Zemi na základe územia](why-placement.md)
+2. [Tvorí prekážku v postupe podvodníkov na kopných mužov](why-family.md)
 
 Bez vyriešenia týchto úloh sa Kopnik.org nikdy nestane účinným nástrojom celkového zjednotenia a nevysporiada sa s úlohou celosvetového zjednotenia Slovanov.
 

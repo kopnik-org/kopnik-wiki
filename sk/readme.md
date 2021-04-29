@@ -4,5 +4,5 @@
 
 ## Obsah
 
-- [Načo je nutný proces overovania?](https://gitlocalize.com/repo/5982/sk/ru/witness/readme.md)
-- [Prečo používa Kopnik.org VK ( VKontakte )?](https://gitlocalize.com/repo/5982/sk/ru/vk/readme.md)
+- [Načo je nutný proces overovania?](witness/readme.md)
+- [Prečo používa Kopnik.org VK ( VKontakte )?](vk/readme.md)
