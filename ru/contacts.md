@@ -1,4 +1,4 @@
-# Contacts
+# Контакты
 
 * [Официальный YouTube channel](https://www.youtube.com/channel/UCJRtg8s94PTFXEfZ6sEnlGw) 
 * [Официальный Telegram канал](https://t.me/kopnik_org)
