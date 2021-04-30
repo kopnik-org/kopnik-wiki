@@ -9,7 +9,7 @@
 
 [comment]: <> (- [Наши контакты]&#40;#Наши-контакты&#41;)
 
-## контакты
+## Контакты
 
 [YouTube](https://www.youtube.com/channel/UCJRtg8s94PTFXEfZ6sEnlGw) [Telegram](https://t.me/kopnik_org) [ВКонтакте](https://vk.com/kopnik_org) [Facebook](https://www.facebook.com/kopnik.org)    
 
