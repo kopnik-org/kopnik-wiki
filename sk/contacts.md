@@ -1,6 +1,6 @@
 # Kontakty
 
-### Medzinárodný
+### Medzinárodný kontakt
 
 - Email: [info.kopnik.org@gmail.com](mailto:info.kopnik.org@gmail.com)
 
