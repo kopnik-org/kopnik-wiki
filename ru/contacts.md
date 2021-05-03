@@ -19,6 +19,7 @@
 ### Чехия, Моравия и Силезия
 
 * Email: [kopnik.org_cechyamorava@centrum.cz](mailto:kopnik.org_cechyamorava@centrum.cz)
+* Facebook: [Kopnik.org Čechy, Morava a Slezko](https://www.facebook.com/Kopnikorg-%C4%8Cechy-Morava-a-Slezko-109367031307453)
 * ВКонтакте: [Официальный Чат](https://vk.me/join/g2yb7XBo9y7tUicteV6G4FeEAMFE0yUGSUU=)
 
 ### Германия
