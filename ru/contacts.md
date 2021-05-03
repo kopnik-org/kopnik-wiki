@@ -16,7 +16,7 @@
 * Facebook: [Kopnik.org Slovensko](https://www.facebook.com/Kopnikorg-Slovensko-101296908796560)
 * ВКонтакте: [Официальный Чат](https://vk.me/join/ZSCVBGO4a0LoMW4lNGcVJd8CHxUuW2vUBPw=)
 
-### Чехия и Моравия
+### Чехия, Моравия и Силезия
 
 * Email: [kopnik.org_cechyamorava@centrum.cz](mailto:kopnik.org_cechyamorava@centrum.cz)
 * ВКонтакте: [Официальный Чат](https://vk.me/join/g2yb7XBo9y7tUicteV6G4FeEAMFE0yUGSUU=)
