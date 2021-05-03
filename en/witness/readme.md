@@ -6,9 +6,8 @@ The certification procedure is a technical procedure that is not directly relate
 
 There are three critical tasks that the assurance procedure performs:
 
-1. [Preventing the emergence of fake communities and fake elders](why-passport.md)
-2. [Creation of real (not virtual) communities on earth on a territorial basis](why-placement.md)
-3. [Obstacle to the passage of crooks into mop men](why-family.md)
+1. [Creation of real (not virtual) communities on earth on a territorial basis](why-placement.md)
+2. [Obstacle to the passage of crooks into mop men](why-family.md)
 
 Without solving these problems, Kopnik will never become an effective tool for a shock unification and will not cope with the task of world Slavic unification assigned to him.
 
