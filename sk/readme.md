@@ -6,3 +6,4 @@
 
 - [Načo je nutný proces overovania?](witness/readme.md)
 - [Prečo používa Kopnik.org VK ( VKontakte )?](vk/readme.md)
+- [Контакты](contacts.md)
