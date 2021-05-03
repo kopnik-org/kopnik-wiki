@@ -21,6 +21,10 @@
 ### Словакия
 
 * Facebook: [Kopnik.org Slovensko](https://www.facebook.com/Kopnikorg-Slovensko-101296908796560)
+* Facebook: [Slovenská Ľudová Samospráva](https://www.facebook.com/groups/1761010937466972)
+* YouTube: [Kopnik org Slovensko](https://www.youtube.com/channel/UCLo6zksJArSvrz7Q_Pb_1Vg/videos)
+* YouTube: [Kopne PRAVo](https://www.youtube.com/channel/UCVu4MtaYZ1ripaLGlsefJ1w/videos) 
+* YouTube: [Drzava Slovensko](https://www.youtube.com/channel/UCLYXZCm4NCrVyEpPyWFOdFw/videos) 
 * ВКонтакте: [Официальный Чат](https://vk.me/join/ZSCVBGO4a0LoMW4lNGcVJd8CHxUuW2vUBPw=)
 
 ### Чехия, Моравия и Силезия
