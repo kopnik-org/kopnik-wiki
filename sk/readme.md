@@ -6,32 +6,34 @@
 
 - [Načo je nutný proces overovania?](witness/readme.md)
 - [Prečo používa Kopnik.org VK ( VKontakte )?](vk/readme.md)
-- [Контакты](contacts.md)
+- [Kontakty](contacts.md)
 
-## Ссылки
+## Odkazy
 
-### Россия
+### Rusko
 
-* YouTube: [Официальный канал](https://www.youtube.com/channel/UCJRtg8s94PTFXEfZ6sEnlGw)
-* Telegram: [Официальный канал](https://t.me/kopnik_org)
-* ВКонтакте: [Официальная группа](https://vk.com/kopnik_org)
-* Facebook: [Официальная группа](https://www.facebook.com/kopnik.org)
-* ВКонтакте: [Официальный Чат](https://vk.me/join/gPg9/g6wjgknBe034BdDdOdcjvU1MtJKZ7o=)
+- YouTube: [Официальный канал](https://www.youtube.com/channel/UCJRtg8s94PTFXEfZ6sEnlGw)
+- Telegram: [Официальный канал](https://t.me/kopnik_org)
+- ВКонтакте: [Официальная группа](https://vk.com/kopnik_org)
+- Facebook: [Официальная группа](https://www.facebook.com/kopnik.org)
+- ВКонтакте: [Официальный Чат](https://vk.me/join/gPg9/g6wjgknBe034BdDdOdcjvU1MtJKZ7o=)
 
-### Словакия
+### Slovensko
 
-* Facebook: [Kopnik.org Slovensko](https://www.facebook.com/Kopnikorg-Slovensko-101296908796560)
-* Facebook: [Slovenská Ľudová Samospráva](https://www.facebook.com/groups/1761010937466972)
-* YouTube: [Kopnik org Slovensko](https://www.youtube.com/channel/UCLo6zksJArSvrz7Q_Pb_1Vg/videos)
-* YouTube: [Kopne PRAVo](https://www.youtube.com/channel/UCVu4MtaYZ1ripaLGlsefJ1w/videos)
-* YouTube: [Drzava Slovensko](https://www.youtube.com/channel/UCLYXZCm4NCrVyEpPyWFOdFw/videos)
-* ВКонтакте: [Официальный Чат](https://vk.me/join/ZSCVBGO4a0LoMW4lNGcVJd8CHxUuW2vUBPw=)
+- Oficiálna Facebook stránka pre Kopnik.org: [Kopnik.org Slovensko](https://www.facebook.com/Kopnikorg-Slovensko-101296908796560)
+- Facebook skupina pre zavedenie Kopného Práva do dnešnej spoločnosti: [Slovenská Ľudová Samospráva](https://www.facebook.com/groups/1761010937466972)
+- Oficiálny YouTube kanál pre Kopnik.org: [Kopnik org Slovensko](https://www.youtube.com/channel/UCLo6zksJArSvrz7Q_Pb_1Vg/videos)
+- YouTube kanál pre fakty ohľadom Kopného Práva : [Kopne PRAVo](https://www.youtube.com/channel/UCVu4MtaYZ1ripaLGlsefJ1w/videos)
+- YouTube kanál pre zavedenie Kopného Práva do dnešnej spoločnosti: [Drzava Slovensko](https://www.youtube.com/channel/UCLYXZCm4NCrVyEpPyWFOdFw/videos)
+- Vkontakte: [Miestnosť pre komunikáciu ohľadom Kopnik.org v slovenčine](https://vk.me/join/ZSCVBGO4a0LoMW4lNGcVJd8CHxUuW2vUBPw=)
 
-### Чехия, Моравия и Силезия
+### Čechy, Morava a Slezsko
 
-* Facebook: [Kopnik.org Čechy, Morava a Slezko](https://www.facebook.com/Kopnikorg-%C4%8Cechy-Morava-a-Slezko-109367031307453)
-* ВКонтакте: [Официальный Чат](https://vk.me/join/g2yb7XBo9y7tUicteV6G4FeEAMFE0yUGSUU=)
+- Facebook: [Kopnik.org Čechy, Morava a Slezko](https://www.facebook.com/Kopnikorg-%C4%8Cechy-Morava-a-Slezko-109367031307453)
+- VKontakte: [Miestnosť pre komunikáciu v češtine](https://vk.me/join/g2yb7XBo9y7tUicteV6G4FeEAMFE0yUGSUU=)
 
-### Германия
+### Nemecko
 
-* ВКонтакте: [Официальный Чат](https://vk.me/join/W0zNFuTarP4nFi81vOyBsVBPsAYoyGYJgRY=)
+- VKontakte: [Miestnosť pre komunikáciu v nemčine](https://vk.me/join/W0zNFuTarP4nFi81vOyBsVBPsAYoyGYJgRY=)
+
+
