@@ -12,11 +12,11 @@
 
 ### Rusko
 
-- YouTube: [Официальный канал](https://www.youtube.com/channel/UCJRtg8s94PTFXEfZ6sEnlGw)
-- Telegram: [Официальный канал](https://t.me/kopnik_org)
-- ВКонтакте: [Официальная группа](https://vk.com/kopnik_org)
-- Facebook: [Официальная группа](https://www.facebook.com/kopnik.org)
-- ВКонтакте: [Официальный Чат](https://vk.me/join/gPg9/g6wjgknBe034BdDdOdcjvU1MtJKZ7o=)
+- YouTube: [Kopnik.org: prvá sieť kopného práva](https://www.youtube.com/channel/UCJRtg8s94PTFXEfZ6sEnlGw)
+- Telegram: [Miestnosť pre komunikáciu v ruštine](https://t.me/kopnik_org)
+- VKontakte: [Kopnik.org - Elektronické Kopné Právo](https://vk.com/kopnik_org)
+- Facebook: [Kopnik.org: prvá sieť kopného práva](https://vk.me/join/gPg9/g6wjgknBe034BdDdOdcjvU1MtJKZ7o=)
+- VKontakte: [Miestnosť pre komunikáciu v ruštine](https://vk.me/join/gPg9/g6wjgknBe034BdDdOdcjvU1MtJKZ7o=)
 
 ### Slovensko
 
